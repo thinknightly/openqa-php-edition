@@ -10,8 +10,4 @@ include('assets/components/index/dashboard_public.php');
 
 // Import Footer
 include('assets/components/index/footer.php');
-
-// Nat test
-echo 44444;
-
 ?>
