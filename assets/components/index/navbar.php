@@ -1,8 +1,14 @@
 <nav class="navbar">
   <div class="container">
-    <a class="navbar-brand" href="#">
-      <img src="assets/images/logo/openqa-php-edition.svg" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
-      openQA - <i class="fa-brands fa-php"></i> Edition
+    <a class="navbar-brand" href="/MyProjects/openqa-php-edition">
+      <img src="assets/images/logo/openqa-php-edition.svg" alt="Logo" width="30" height="30"
+        class="d-inline-block align-text-top">
+      <b>openQA</b>
     </a>
+    <ul class="navbar-nav ms-auto">
+      <li class="nav-item">
+        <a class="btn btn-success" href="/MyProjects/openqa-php-edition/core/login.php" role="button">เข้าสู่ระบบ</a>
+      </li>
+    </ul>
   </div>
 </nav>
