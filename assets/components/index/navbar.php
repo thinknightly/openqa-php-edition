@@ -7,7 +7,7 @@
     </a>
     <ul class="navbar-nav ms-auto">
       <li class="nav-item">
-        <a class="btn btn-success" href="/MyProjects/openqa-php-edition/core/login.php" role="button">เข้าสู่ระบบ</a>
+        <a class="btn btn-success" href="/MyProjects/openqa-php-edition/login.php" role="button">เข้าสู่ระบบ</a>
       </li>
     </ul>
   </div>
