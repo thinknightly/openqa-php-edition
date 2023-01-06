@@ -1,4 +1,4 @@
-<nav class="navbar">
+<nav class="navbar fixed-top">
   <div class="container">
     <a class="navbar-brand" href="/MyProjects/openqa-php-edition">
       <img src="assets/images/logo/openqa-php-edition.svg" alt="Logo" width="30" height="30"
