@@ -24,13 +24,13 @@ include('assets/components/index/navbar.php');
                 <label for="formGroupExampleInput" class="form-label">
                     ชื่อผู้ใช้งาน
                 </label>
-                <input class="form-control" name="opqa_username" required />
+                <input type="text" class="form-control" name="opqa_username" required />
             </div>
             <div class="mt-2 mb-3">
                 <label for="formGroupExampleInput" class="form-label">
                     รหัสผ่าน
                 </label>
-                <input class="form-control" name="opqa_password" required />
+                <input type="password" class="form-control" name="opqa_password" required />
             </div>
             <input class="form-control mb-2 btn btn-success" type="submit" value="เข้าสู่ระบบ" />
         </form>
