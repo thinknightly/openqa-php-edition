@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@300;400;600&display=swap');
+body {
+    background-color: #EAE2B6;
+    color: #2D2424;
+    font-family: 'Noto Serif Thai', serif;
+}
+
+/* Customize for header.php */
+.bg-primary {
+    background-color: #EAE2B6 !important;
+}
+
+.empty-space {
+    padding-top: 5rem;
+}
+
+a.text-muted:hover {
+    font-weight: 600;
+}

@@ -3,3 +3,6 @@ form {
     min-width: fit-content auto;
     max-width: 400px !important;
 }
+.center-logo {
+    align-content: center;
+}
