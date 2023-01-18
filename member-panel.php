@@ -2,12 +2,12 @@
 // Head & Header
 $title = "ยินดีต้อนรับ, คุณ" . $_SESSION['fullname'];
 require('functions/auth/check_user.php');
-require('components/head.php');
-require('components/header.php');
+require('include/head.php');
+require('include/header.php');
 
 // Body
-
+require('');
 
 // Footer
-require_once('components/footer.php');
+require_once('include/footer.php');
 ?>

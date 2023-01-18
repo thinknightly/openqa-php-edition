@@ -26,6 +26,7 @@ if (mysqli_num_rows($result) == 1) {
     $_SESSION['loggedin'] = true;
     $_SESSION['username'] = $username;
     $_SESSION['fullname'] = $user['fullname'];
+    $_SESSION['department'] = $user['department'];
     $_SESSION['role'] = $user['role'];
     if ($user['role'] == '1') {
         header("Location: /openqa-php-edition/admin-panel.php");
